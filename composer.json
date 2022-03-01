@@ -17,7 +17,7 @@
   "require": {
     "php": "^8.0",
     "pimcore/pimcore": "^10.2",
-    "webonyx/graphql-php": "^14.6"
+    "webonyx/graphql-php": "dev-master"
   },
   "extra": {
     "pimcore": {
